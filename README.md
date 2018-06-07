@@ -1,2 +1,2 @@
 # my_first_repository
-My first repo
+This is the step function training lesson on using repos to hold and manage source code.
